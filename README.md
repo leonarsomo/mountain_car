@@ -208,6 +208,7 @@ El ciclo es estado → acción → recompensa → actualización. La observació
 Son dos bucles que se encuentran en la memoria de repetición (replay). En el de interacción, la red en línea elige la acción y cada transición se guarda en la memoria. En el de aprendizaje, un mini-lote al azar pasa por la red objetivo (target) para formar el objetivo de Bellman, y la pérdida actualiza solo los pesos de la red en línea. Cada 10 episodios esos pesos se copian a la red objetivo.
 
 ![Esquema propio del ciclo de entrenamiento de DQN](esquemas/ciclo_de_entrenamiento_de_dqn.png)
+![Esquema propio del ciclo de entrenamiento de DQN](esquemas/Esquema_DQN.png)
 
 ## 5. Mejor resultado de Q-Learning
 
