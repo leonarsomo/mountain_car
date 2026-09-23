@@ -201,7 +201,7 @@ Los dos esquemas son de mi autoría. Primero los dibujé a mano y después los p
 El ciclo es estado → acción → recompensa → actualización. La observación se discretiza para obtener el estado, se elige la acción con ε-greedy, el entorno devuelve la recompensa y el siguiente estado, se calcula el objetivo TD y se actualiza la tabla. La flecha de la izquierda cierra el ciclo mientras el episodio continúa.
 
 ![Esquema propio del ciclo de entrenamiento de Q-Learning tabular](esquemas/ciclo_de_entrenamiento_de_q_learning_tabular.png)
-![Esquema propio del ciclo de entrenamiento de Q-Learning tabular](esquemas/ciclo_de_entrenamiento_de_q_learning_tabular.png)
+![Esquema propio del ciclo de entrenamiento de Q-Learning tabular](esquemas/Esquema DQN.png)
 
 ### DQN
 
