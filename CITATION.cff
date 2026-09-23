@@ -8,6 +8,22 @@ authors:
     affiliation: "Maestría en Inteligencia Artificial, Universidad de La Sabana"
     email: "leonarsomo@unisabana.edu.co"
     orcid: "https://orcid.org/0000-0003-0601-9151"
+  - family-names: "Serrano Cifuentes"
+    given-names: "John Jairo"
+    affiliation: "Maestría en Inteligencia Artificial, Universidad de La Sabana"
+    email: "johnseci@unisabana.edu.co"
+  - family-names: "Joya Miranda"
+    given-names: "Brezhnev"
+    affiliation: "Maestría en Inteligencia Artificial, Universidad de La Sabana"
+    email: "brezhnevjomi@unisabana.edu.co"
+  - family-names: "Lizano Alvarado"
+    given-names: "Gabriel Alonso"
+    affiliation: "Maestría en Inteligencia Artificial, Universidad de La Sabana"
+    email: "gabriellial@unisabana.edu.co"
+  - family-names: "Aranzazu Medina"
+    given-names: "Bryan Johann"
+    affiliation: "Maestría en Inteligencia Artificial, Universidad de La Sabana"
+    email: "bryanarme@unisabana.edu.co"
 abstract: >-
   Comparación reproducible entre Q-Learning tabular y Deep Q-Network en MountainCar-v0.
   Documenta por qué epsilon-greedy uniforme impide que DQN aprenda en un entorno de
